@@ -7,7 +7,7 @@ public class HelloWorld
 	{
 		System.out.println("Howdy GitHub project!");
 		System.out.println("Line 2");
-		System.out.println("Programmer 2 did this");
+		System.out.println("Programmer 2 did this, Programmer 1 did this");
 	}
 
 }
