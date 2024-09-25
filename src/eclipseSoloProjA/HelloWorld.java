@@ -6,6 +6,7 @@ public class HelloWorld
 	public static void main(String[] args)
 	{
 		System.out.println("Howdy GitHub project!");
+		System.out.println("Line 2");
 
 	}
 
